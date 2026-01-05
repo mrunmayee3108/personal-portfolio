@@ -5,6 +5,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/>
 </p>
 
+Live demo: https://personal-portfolio-mrunmayee.streamlit.app/
 
 ## 📌 Project Overview
 
